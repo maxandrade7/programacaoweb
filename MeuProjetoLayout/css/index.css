@@ -1,0 +1,65 @@
+div.logo{
+    margin-right: auto;
+}
+
+div.menu{
+    font-size: 20px;
+    font-weight: bold;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+nav a.nav-link:hover {
+    color: white;
+    background-color: green;
+}
+
+nav a.dropdown-item:hover{
+    background-color: lightgrey;
+}
+
+div.tituloCentral {
+    padding: 25px;
+    background-color: lightgray;
+    text-align: center;
+    border-bottom: 5px solid green;
+    border-radius: 10px ;
+}
+h2.nomeDoCurso{
+    font-weight: bold;
+    font-variant: small-caps;
+    font-size: 40px;
+    font-family: Arial, Helvetica, sans-serif;    
+}
+
+div.container h2{
+    border-radius: 10px;
+    font-size: 32px;
+    font-weight: bold;
+    text-align: center;
+    padding-bottom: 30px;
+    margin: 25px 0px 0px 0px;
+    background-color: lightgray;
+    border-bottom: 5px solid green;
+}
+
+div.container p {
+    margin-top: 20px;
+    font-size: 16px;
+    text-align: justify;
+}
+
+div.news {
+    text-align: center;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    width: 50%;
+    margin: auto;
+    background-color: lightgray;
+    border-bottom: 5px solid green;
+    border-radius: 20px;
+}
+
+.carousel{
+    padding-top: 20px;
+    width: 70%;
+    margin: auto;
+}
