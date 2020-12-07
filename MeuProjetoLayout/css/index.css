@@ -64,13 +64,11 @@ div.news {
     width: 70%;
     margin: auto;
 }
-
 h3.titulo{
     color: white;
     font-weight: bold;
     text-shadow: 2px 2px #ff0000;
 }
-
 p.legenda{
     color: white;
     font-weight: bolder;
