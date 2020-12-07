@@ -1,13 +1,11 @@
 div.logo{
     margin-right: auto;
 }
-
 div.menu{
     font-size: 20px;
     font-weight: bold;
     font-family: Arial, Helvetica, sans-serif;
 }
-
 nav a.nav-link:hover {
     color: white;
     background-color: green;
@@ -16,7 +14,6 @@ nav a.nav-link:hover {
 nav a.dropdown-item:hover{
     background-color: lightgrey;
 }
-
 div.tituloCentral {
     padding: 25px;
     background-color: lightgray;
@@ -30,7 +27,6 @@ h2.nomeDoCurso{
     font-size: 40px;
     font-family: Arial, Helvetica, sans-serif;    
 }
-
 div.container h2{
     border-radius: 10px;
     font-size: 32px;
@@ -41,13 +37,11 @@ div.container h2{
     background-color: lightgray;
     border-bottom: 5px solid green;
 }
-
 div.container p {
     margin-top: 20px;
     font-size: 16px;
     text-align: justify;
 }
-
 div.news {
     text-align: center;
     font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
@@ -57,19 +51,16 @@ div.news {
     border-bottom: 5px solid green;
     border-radius: 20px;
 }
-
 .carousel{
     padding-top: 20px;
     width: 70%;
     margin: auto;
 }
-
 h3.titulo{
     color: white;
     font-weight: bold;
     text-shadow: 2px 2px #ff0000;
 }
-
 p.legenda{
     color: white;
     font-weight: bolder;
